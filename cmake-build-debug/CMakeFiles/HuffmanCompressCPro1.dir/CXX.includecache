@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhaoruiyang/CLionProjects/HuffmanCompressCPro1/BitIO.h
+iostream
+-
+
+/Users/zhaoruiyang/CLionProjects/HuffmanCompressCPro1/HuffmanTree.cpp
+HuffmanTree.h
+/Users/zhaoruiyang/CLionProjects/HuffmanCompressCPro1/HuffmanTree.h
+
+/Users/zhaoruiyang/CLionProjects/HuffmanCompressCPro1/HuffmanTree.h
+string
+-
+iostream
+-
+BitIO.h
+/Users/zhaoruiyang/CLionProjects/HuffmanCompressCPro1/BitIO.h
+
